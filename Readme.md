@@ -51,9 +51,8 @@ ORDER BY gift;
 SELECT order#, isbn, (quantity * paideach) AS "Total Sale"
 FROM orderitems;
 
-```
-![Database Schema](/Images/entity.png)
-**Purpose**: Lists book categories with their average prices, showing only categories where average price exceeds $35.
+![Database Schema](/Images/Q13.png)
+
 
 
 # JLDB Database Entity Relationship Diagram
