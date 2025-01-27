@@ -57,7 +57,7 @@ FROM orderitems;
 
 # JLDB Database Entity Relationship Diagram
 
-![Entity RelatDiagram](/images/entity.png)
+![Entity RelatDiagram](/Images/entity.png)
 
 erDiagram
     CUSTOMERS {
