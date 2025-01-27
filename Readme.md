@@ -52,7 +52,7 @@ SELECT order#, isbn, (quantity * paideach) AS "Total Sale"
 FROM orderitems;
 
 ```
-![Database Schema](/Images/Q13.png)
+![Database Schema](/Images/entity.png)
 **Purpose**: Lists book categories with their average prices, showing only categories where average price exceeds $35.
 
 
