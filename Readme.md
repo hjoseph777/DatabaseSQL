@@ -1,7 +1,7 @@
 # SQL Query Documentation
 
 ## Table Structure
-## SELECT table_name FROM user_tables;
+### SELECT table_name FROM user_tables;
 ![Database Schema](/Images/Main.png) 
 
 
