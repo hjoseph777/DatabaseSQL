@@ -34,7 +34,7 @@ FROM orders;
 
 ```
 ![Database Schema](/Images/Q11.png)
-**Purpose**: Lists orders that haven't been shipped yet (null shipdate).
+### Purpose**: Lists orders that haven't been shipped yet (null shipdate).
 
 ### Query 12:Promotion Table:
 ```sql
@@ -45,7 +45,7 @@ ORDER BY gift;
 ```
 ![Database Schema](/Images/Q12.png)
 
-**Purpose**: Shows how many orders each customer has placed, including customers with no orders.
+### Purpose**: Shows how many orders each customer has placed, including customers with no orders.
 
 ### Query 13: Total Sale of Each Book:
 SELECT order#, isbn, (quantity * paideach) AS "Total Sale"
