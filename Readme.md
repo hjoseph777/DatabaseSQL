@@ -1,7 +1,7 @@
 # SQL Query Documentation
 
 ## Table Structure
-SELECT table_name FROM user_tables;
+### SELECT table_name FROM user_tables;
 ![Database Schema](/Images/Main.png) 
 
 
@@ -57,7 +57,7 @@ FROM orderitems;
 
 # JLDB Database Entity Relationship Diagram
 
-![Entity Relationship Diagram](/images/entity.png)
+![Entity RelatDiagram](/Images/entity.png)
 
 erDiagram
     CUSTOMERS {
